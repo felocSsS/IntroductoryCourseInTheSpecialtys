@@ -1,0 +1,2 @@
+D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Development\IntroductoryCourseKP\Definitions.IntroductoryCourseKP.h
+D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Source\IntroductoryCourseKP\IntroductoryCourseKP.h
