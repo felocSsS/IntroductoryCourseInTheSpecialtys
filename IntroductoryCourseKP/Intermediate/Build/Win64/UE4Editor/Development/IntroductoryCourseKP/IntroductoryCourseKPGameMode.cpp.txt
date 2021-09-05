@@ -1,22 +1,22 @@
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Development\IntroductoryCourseKP\Definitions.IntroductoryCourseKP.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Source\IntroductoryCourseKP\IntroductoryCourseKPGameMode.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Inc\IntroductoryCourseKP\IntroductoryCourseKPGameMode.generated.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Source\IntroductoryCourseKP\IntroductoryCourseKPHUD.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Inc\IntroductoryCourseKP\IntroductoryCourseKPHUD.generated.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Source\IntroductoryCourseKP\IntroductoryCourseKPCharacter.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Inc\IntroductoryCourseKP\IntroductoryCourseKPCharacter.generated.h

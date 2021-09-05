@@ -1,5 +1,5 @@
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Development\IntroductoryCourseKP\Definitions.IntroductoryCourseKP.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\UnrealEngine4\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Fortnite\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Source\IntroductoryCourseKP/IntroductoryCourseKPProjectile.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Inc\IntroductoryCourseKP\IntroductoryCourseKPProjectile.generated.h
