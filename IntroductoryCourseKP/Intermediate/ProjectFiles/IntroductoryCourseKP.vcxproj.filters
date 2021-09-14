@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\IntroductoryCourseKP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FE8D4C0F-078F-4432-8B17-3FD85EE921E8}</UniqueIdentifier>
+      <UniqueIdentifier>{27A78063-322D-469B-8BBD-0AF89780824B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\IntroductoryCourseKP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5132E320-AD0C-4A91-BE68-A7914A1887E7}</UniqueIdentifier>
+      <UniqueIdentifier>{31F7736A-813B-4054-B62F-2FD20681386B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,14 +30,8 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\IntroductoryCourseKP">
-      <UniqueIdentifier>{B38BA48D-A7E8-4447-BFE7-E8D407EDE21A}</UniqueIdentifier>
+      <UniqueIdentifier>{A033C354-82AB-4E8B-8F3F-CAA743935E62}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\IntroductoryCourseKP\FirstPersonCharacterCPP.cpp">
-      <Filter>Source\IntroductoryCourseKP</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\IntroductoryCourseKP\FirstPersonCharacterCPP.h">
-      <Filter>Source\IntroductoryCourseKP</Filter>
-    </ClInclude>
     <None Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKP.Build.cs">
       <Filter>Source\IntroductoryCourseKP</Filter>
     </None>
@@ -57,18 +51,6 @@
       <Filter>Source\IntroductoryCourseKP</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKPGameMode.h">
-      <Filter>Source\IntroductoryCourseKP</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKPHUD.cpp">
-      <Filter>Source\IntroductoryCourseKP</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKPHUD.h">
-      <Filter>Source\IntroductoryCourseKP</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKPProjectile.cpp">
-      <Filter>Source\IntroductoryCourseKP</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKPProjectile.h">
       <Filter>Source\IntroductoryCourseKP</Filter>
     </ClInclude>
   </ItemGroup>

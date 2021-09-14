@@ -5,13 +5,6 @@ D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplic
 D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Inc\IntroductoryCourseKP\IntroductoryCourseKPGameMode.generated.h
-D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Source\IntroductoryCourseKP\IntroductoryCourseKPHUD.h
-D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-D:\Fortnite\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Intermediate\Build\Win64\UE4Editor\Inc\IntroductoryCourseKP\IntroductoryCourseKPHUD.generated.h
 D:\Unreal4\IntroductoryCourseKP\IntroductoryCourseInTheSpecialtys\IntroductoryCourseKP\Source\IntroductoryCourseKP\IntroductoryCourseKPCharacter.h
 D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 D:\Fortnite\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
