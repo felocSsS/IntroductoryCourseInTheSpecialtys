@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\IntroductoryCourseKP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{27A78063-322D-469B-8BBD-0AF89780824B}</UniqueIdentifier>
+      <UniqueIdentifier>{2B1C02A9-705E-4B35-A452-7C67A5F16F80}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\IntroductoryCourseKP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{31F7736A-813B-4054-B62F-2FD20681386B}</UniqueIdentifier>
+      <UniqueIdentifier>{2E4B8918-9084-4C83-8F13-4A39CFCDA2BD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\IntroductoryCourseKP">
-      <UniqueIdentifier>{A033C354-82AB-4E8B-8F3F-CAA743935E62}</UniqueIdentifier>
+      <UniqueIdentifier>{377DB887-309B-47C7-9BE4-673A66C0C3E2}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\IntroductoryCourseKP\FirstPersonCPP.cpp">
+      <Filter>Source\IntroductoryCourseKP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroductoryCourseKP\FirstPersonCPP.h">
+      <Filter>Source\IntroductoryCourseKP</Filter>
+    </ClInclude>
     <None Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKP.Build.cs">
       <Filter>Source\IntroductoryCourseKP</Filter>
     </None>
