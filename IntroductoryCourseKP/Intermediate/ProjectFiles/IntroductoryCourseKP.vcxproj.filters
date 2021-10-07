@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\IntroductoryCourseKP.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E420B578-3401-434F-AAAB-45DC8DE6A117}</UniqueIdentifier>
+      <UniqueIdentifier>{FB58913B-E6D0-4A30-9E4C-5CCD17ACCF0E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\IntroductoryCourseKP.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{657E718E-DF97-419C-B62C-D6F1338DE9DB}</UniqueIdentifier>
+      <UniqueIdentifier>{43DFB5F4-1A72-4A26-A5B6-21B3BA66B2C8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\IntroductoryCourseKP">
-      <UniqueIdentifier>{053340C1-EF78-4075-8078-4C5914C123C2}</UniqueIdentifier>
+      <UniqueIdentifier>{3D83F1E8-2FEA-4F1A-B56A-0BFF3CB4378E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKP.Build.cs">
       <Filter>Source\IntroductoryCourseKP</Filter>
@@ -51,6 +51,18 @@
       <Filter>Source\IntroductoryCourseKP</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\IntroductoryCourseKP\IntroductoryCourseKPGameMode.h">
+      <Filter>Source\IntroductoryCourseKP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IntroductoryCourseKP\MainCharacter.cpp">
+      <Filter>Source\IntroductoryCourseKP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroductoryCourseKP\MainCharacter.h">
+      <Filter>Source\IntroductoryCourseKP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IntroductoryCourseKP\MainGameModeBase.cpp">
+      <Filter>Source\IntroductoryCourseKP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroductoryCourseKP\MainGameModeBase.h">
       <Filter>Source\IntroductoryCourseKP</Filter>
     </ClInclude>
   </ItemGroup>
