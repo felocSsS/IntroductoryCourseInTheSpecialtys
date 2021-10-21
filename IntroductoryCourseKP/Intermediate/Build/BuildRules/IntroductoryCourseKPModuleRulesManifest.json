@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Unreal4\\IntroductoryCourseKP\\IntroductoryCourseInTheSpecialtys\\IntroductoryCourseKP\\Source\\IntroductoryCourseKP\\IntroductoryCourseKP.Build.cs",
-		"D:\\Unreal4\\IntroductoryCourseKP\\IntroductoryCourseInTheSpecialtys\\IntroductoryCourseKP\\Source\\IntroductoryCourseKP.Target.cs",
-		"D:\\Unreal4\\IntroductoryCourseKP\\IntroductoryCourseInTheSpecialtys\\IntroductoryCourseKP\\Source\\IntroductoryCourseKPEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.0"
-}
