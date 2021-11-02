@@ -33,9 +33,6 @@ protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	class USphereComponent* CollisionComponent;
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
-	class UInventoryComponent* inventory;
-
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	EDocumentType DocType = EDocumentType::Spravka;
 

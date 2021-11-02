@@ -3,7 +3,6 @@
 
 #include "BasePickUp.h"
 #include "Components/SphereComponent.h"
-#include "InventoryComponent.h"
 #include "Components/StaticMeshComponent.h"
 
 // Sets default values
@@ -19,8 +18,6 @@ ABasePickUp::ABasePickUp()
 
 	StaticMesh = CreateDefaultSubobject<UStaticMeshComponent>("StaticMesh");
 	StaticMesh->SetupAttachment(CollisionComponent);
-
-	inventory = CreateDefaultSubobject<UInventoryComponent>("Inventory");
 }
 
 // Called when the game starts or when spawned
